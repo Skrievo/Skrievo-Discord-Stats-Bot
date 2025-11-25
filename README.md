@@ -116,15 +116,4 @@ index.js
 README.md
 ```
 
----
 
-## 📝 License
-
-This project is provided as-is. You may modify it for private or community use.
-
----
-
-## ❤️ Credits
-
-Created by **Finn**
-Configuration guidance and English README by ChatGPT
